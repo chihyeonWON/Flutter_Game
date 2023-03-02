@@ -1,16 +1,9 @@
 # escapehere
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## flutter의 frame 라이브러리로 2D 탈출 게임 만들기
+```
+개발 툴 : Flutter
+개발 언어 : Dart
+개발 일시 : 2023-03-03 - ~ 
+개발자 : Won Chi Hyeon
+```
